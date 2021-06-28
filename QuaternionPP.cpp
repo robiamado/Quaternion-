@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string>
-#include "Quaternione++.h"
+#include "QuaternionPP.h"
 using namespace std;
 
 ostream& operator<<(ostream& o, quaternione q)
