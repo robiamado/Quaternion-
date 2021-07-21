@@ -4,7 +4,7 @@
 
 ## Install
 - Use any C++ compiler to compile _quaternionPP.cpp_ or run the precompiled _quaternionPP.exe_ contained in .zip file.
-- 
+
 ## Description
 
 - Perform simple operations with quaternions (3-complex parts variables).
